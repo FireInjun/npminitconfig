@@ -1,0 +1,17 @@
+
+python=C:\Users\mk\.windows-build-tools\python27
+msvs_version=2015
+shell=C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe
+init-author-email=mk@fireinjun.com
+init-author-name=Mykeal Kenny
+init-author-url=https://mykekenny.com/
+init-license=MIT
+init-version=0.0.1
+init-module=C:\Users\mk\.npm-init.js
+editor=code.exe
+color=true
+loglevel=verbose
+audit=true
+audit-level=critical
+scripts-prepend-node-path=true
+
